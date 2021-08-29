@@ -1,0 +1,16 @@
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\bin\Debug\net5.0\SimplesSnakeConsole.exe
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\bin\Debug\net5.0\SimplesSnakeConsole.deps.json
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\bin\Debug\net5.0\SimplesSnakeConsole.runtimeconfig.json
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\bin\Debug\net5.0\SimplesSnakeConsole.runtimeconfig.dev.json
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\bin\Debug\net5.0\SimplesSnakeConsole.dll
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\bin\Debug\net5.0\ref\SimplesSnakeConsole.dll
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\bin\Debug\net5.0\SimplesSnakeConsole.pdb
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\SimplesSnakeConsole.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\SimplesSnakeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\SimplesSnakeConsole.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\SimplesSnakeConsole.AssemblyInfo.cs
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\SimplesSnakeConsole.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\SimplesSnakeConsole.dll
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\ref\SimplesSnakeConsole.dll
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\SimplesSnakeConsole.pdb
+C:\Users\David\source\repos\SimplesSnakeConsole\SimplesSnakeConsole\obj\Debug\net5.0\SimplesSnakeConsole.genruntimeconfig.cache
